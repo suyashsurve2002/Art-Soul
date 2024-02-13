@@ -76,7 +76,7 @@ export const RecentWorks = () => {
                 </h2>
               </div>
               <div className="w-[40%] flex items-center justify-center">
-                Image
+              <Image src="/secondPaint.jpg" width="490" height="617" className="rotate-[10.7deg] rounded-[245px]"></Image>
               </div>
             </div>
           </div>
@@ -96,7 +96,7 @@ export const RecentWorks = () => {
                 </h2>
               </div>
               <div className="w-[40%] flex items-center justify-center">
-                Image
+              <Image src="/thirdPaint.jpg" width="490" height="617" className="rotate-[10.7deg] rounded-[245px]"></Image>
               </div>
             </div>
           </div>
