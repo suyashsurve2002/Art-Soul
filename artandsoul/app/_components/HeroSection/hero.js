@@ -2,7 +2,7 @@ import React from "react";
 
 export const HeroSection = () => {
   return (
-    <div>
+    <div className="h-[100vh]">
       <div className="flex justify-center items-center text-center mt-[100px] pb-[100px]">
         <div>
           <p className="text-[14px] text-[#BF9F61]">WELCOME TO GALLERY ART & SOUL</p>
